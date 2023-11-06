@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@0;1&display=swap');
+
+body{
+    font-family:'ubuntu', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bg-color{
+    background-color: #F75C1E;
+    box-shadow: 5px 5px 5px #888;
+}
+.bg-color1{
+    background-color: #f1f1f1;
+}
+.card{
+    border:none;
+}
+.btn{
+    margin-top: 5px;
+    color:#F75C1E;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border:1px solid #F75C1E;
+}
+.btn:hover{
+    background-color: white;
+    padding-left: 23px;
+    padding-right: 23px;
+    color:#F75C1E;
+    border:1px solid #F75C1E;
+}
+.btn_dark{
+    margin-top: 5px;
+    color:white;
+    background-color: #F75C1E;
+    padding-left: 20px;
+    padding-right: 20px;
+    border:1px solid #F75C1E;
+}
+.shadow{
+    box-shadow: 5px 5px 5px #888;
+}
+.black{
+    color: black;
+}
+.orange{
+    color:#F75C1E
+}
+.col-6{
+    text-align: justify;
+}
+.col-8{
+    text-align: justify;
+}
